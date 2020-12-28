@@ -1,0 +1,13 @@
+This projects contain following functionalities:
+1) Application mainly focus on Adding,Editing,Deleting the individual member  to/from the Team.
+2) Application restricts back button navigation in Browser.
+3) Application has Form (Client) side validations.
+4) User actions have alert message prompts after completion of every action.
+5) Created one more service to share data from one component to other component.
+6) Added Clear comments and Code implementation.
+7) Used Observables to receive data from Json Server.
+8) All the CRUD Operations will make changes to the JSON Server directly.
+
+ 
+Following are not implemented:
+1) No Existing user check, No Auth Filters were impemented (please note this point).
